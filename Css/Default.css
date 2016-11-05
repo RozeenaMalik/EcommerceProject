@@ -1,0 +1,57 @@
+﻿#wowslider-container1
+{
+    border:2px solid white;
+    background-color: White;
+}
+.page
+{
+    width: 950px;
+    min-height: 500px;
+    margin: 0 auto;
+}
+.page h1
+{
+    font-size: 24px;
+    font-family: Segoe UI;
+    border-bottom: 2px solid Silver;
+    margin:0px;
+    color:Green;
+    
+}
+.welcome_div
+{
+    width: 150px;
+    height: 12px;
+    background-color:#000;
+    float: right;
+}
+.page p
+{
+    font-size: 14px;
+    font-family:Calibri;
+    text-align: justify;
+}
+.images
+{
+    color: Red;
+    width: 200;
+     height:200;
+}
+#1
+{
+    float:left;
+    width: 150%;
+    height:150%;   
+}
+#2
+{
+    float: right;
+    width: 150%;
+    height:150%;
+}
+#3
+{
+    float: right;
+    width: 150%;
+    height:150%;
+}
